@@ -14,6 +14,7 @@ import Button from "../components/common/Button";
 
 const Traits = () => {
   const heads = traits.heads;
+  const originals = traits.originals;
   const glasses = traits.glasses;
   const bodies = traits.bodies;
   const accessories = traits.accessories;
@@ -38,24 +39,24 @@ const Traits = () => {
             </>
           }
         />
-        <Button link="/assets/assets_png.zip" text="Download traits" download />
+        <Button link="/assets/assets_png.zip" text="Download Blitmaps" download />
       </PageHeader>
 
       <PageContent>
         <div className="bg-grey-base py-6 xs:px-1 sm:px-4 rounded-xl mb-8">
           <h1 className="text-5xl text-nouns mb-6 text-center text-black">
-            Heads
+            Originals
           </h1>
           <div className="grid xs:grid-cols-4 sm:grid-cols-5 lg:grid-cols-6 xl:grid-cols-6 gap-2 ">
-            {heads &&
-              heads.map((head) => (
+            {originals &&
+              originals.map((originals) => (
                 <div key={uuidv4()} className="flex flex-col items-center mb-8">
                   <img
-                    src={`/traits/heads/head-${head.image}.png`}
-                    alt="head"
+                    src={`/traits/blitmaps/originals/${originals.image}.png`}
+                    alt="original"
                   />
                   <p className="text-nouns text-black text-center tracking-wider xs:text-sm sm:text-lg">
-                    {head.name}
+                    {originals.name}
                   </p>
                 </div>
               ))}

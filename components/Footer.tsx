@@ -9,14 +9,14 @@ const Footer = () => {
     <div className="relative xs:px-6 sm:px-0 text-black font-medium gap-2 items-center w-full flex flex-col text-center">
       {asPath === "/" && (
         <p>
-          Nouns Center serves as the knowledge center &#38; resource hub for
-          Nouns DAO
+          Blitmap Center serves as the knowledge center &#38; resource hub for
+          Blitmap universe. This site is a fork of Nouns Center built by cdt.
         </p>
       )}
 
       <div className="flex gap-8 items-center">
         {/* Twitter */}
-        <a href="https://twitter.com/nounsdao" target="_blank" rel="noreferrer">
+        <a href="https://twitter.com/blitmap" target="_blank" rel="noreferrer">
           <svg
             className="w-6 h-8 fill-black  hover:fill-gray-400 transition cursor-pointer"
             xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +27,7 @@ const Footer = () => {
         </a>
 
         {/* Discord */}
-        <a href="https://discord.gg/nouns" target="_blank" rel="noreferrer">
+        <a href="https://discord.gg/blitmap" target="_blank" rel="noreferrer">
           <svg
             className="h-8 w-7 fill-black  hover:fill-gray-400 transition cursor-pointer"
             viewBox="0 0 100 100"
@@ -50,7 +50,7 @@ const Footer = () => {
         </a>
 
         {/* Discourse */}
-        <a href="https://discourse.nouns.wtf/" target="_blank" rel="noreferrer">
+        {/* <a href="https://discourse.nouns.wtf/" target="_blank" rel="noreferrer">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 -1 104 106"
@@ -68,7 +68,7 @@ const Footer = () => {
               </g>
             </g>
           </svg>
-        </a>
+        </a> */}
       </div>
     </div>
   );

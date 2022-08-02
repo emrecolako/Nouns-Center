@@ -7,7 +7,7 @@ import PageContent from "../components/Layout/PageContent";
 import PageHeader from "../components/Layout/PageHeader";
 import Button from "../components/common/Button";
 
-const introToNounsNotionPage = "90485892d0c54ef1be05abf0ecfc18da";
+const introToBlitmapNotionPage = "2df408b377b9416db217e39d53779fae";
 
 export async function getStaticProps() {
   let data = [];
@@ -16,7 +16,7 @@ export async function getStaticProps() {
 
   try {
     const res = await fetch(
-      `https://notion-api.splitbee.io/v1/page/${introToNounsNotionPage}`
+      `https://notion-api.splitbee.io/v1/page/${introToBlitmapNotionPage}`
     );
     if (res.status !== 200)
       throw String(`Invalid server response: ${res.status} ${res.statusText}`);
@@ -39,12 +39,12 @@ const Intro = ({ docsData }) => {
   return docsData ? (
     <>
       <PageHeader>
-        <Header title="Intro | Nouns Center" />
+        <Header title="Intro | Blitmap Center" />
         <Title title="Intro" />
 
         <Subheader
-          title="A Brief Introduction to Nouns"
-          body="If you ever wanted to know what Nouns is all about, this is a great place to start."
+          title="A Brief Introduction to Blitmap"
+          body="Welcome to the Wiki for Blitmap, a community crafted sci-fantasy universe.."
         />
       </PageHeader>
 

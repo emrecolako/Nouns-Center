@@ -35,8 +35,8 @@ const Nav = ({ setSidebarOpen }) => {
             <Link passHref href="/">
               <img
                 onClick={() => setSidebarOpen(false)}
-                src="/earth.gif"
-                alt="earth"
+                src="/traits/blitmaps/originals/84.png"
+                alt="logo"
                 className="h-12 w-12 ml-1.5 flex cursor-pointer self-center mb-8"
               />
             </Link>

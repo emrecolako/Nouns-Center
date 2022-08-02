@@ -1,6 +1,6 @@
 [
   {
-    "name": "About Nouns",
+    "name": "About Blitmap",
     "defaultOpen": true,
     "current": false,
     "children": [
@@ -10,77 +10,23 @@
         "external": false
       },
       {
-        "name": "Traits",
-        "link": "/traits",
+        "name": "Blitmaps",
+        "link": "/blitmaps",
+        "external": false
+      },
+      {
+        "name": "Blitnauts",
+        "link": "/blitnauts",
+        "external": false
+      },
+      {
+        "name": "Logos",
+        "link": "/logos",
         "external": false
       },
       {
         "name": "History",
         "link": "/history",
-        "external": false
-      },
-      {
-        "name": "Discord Channels",
-        "link": "/channels",
-        "external": false
-      }
-    ]
-  },
-  {
-    "name": "For Builders",
-    "current": false,
-    "defaultOpen": true,
-    "children": [
-      {
-        "name": "Ideas",
-        "link": "/ideas",
-        "external": false
-      },
-      {
-        "name": "Assets",
-        "link": "/assets",
-        "external": false
-      },
-      {
-        "name": "GitHub",
-        "link": "https://github.com/nounsDAO/nouns-monorepo",
-        "external": true
-      },
-      {
-        "name": "Dev FAQ",
-        "link": "https://github.com/nounsDAO/nouns-monorepo/discussions",
-        "external": true
-      },
-      {
-        "name": "Dev Resources",
-        "link": "/dev",
-        "external": false
-      }
-    ]
-  },
-  {
-    "name": "Get Funding",
-    "current": false,
-    "defaultOpen": true,
-    "children": [
-      {
-        "name": "Overview",
-        "link": "/funding",
-        "external": false
-      },
-      {
-        "name": "Small Grants Guide",
-        "link": "/funding/smallgrants",
-        "external": false
-      },
-      {
-        "name": "Prop House Guide",
-        "link": "/funding/prophouse",
-        "external": false
-      },
-      {
-        "name": "Proposals Guide",
-        "link": "/funding/proposals",
         "external": false
       }
     ]
@@ -96,26 +42,32 @@
         "external": false
       },
       {
-        "name": "Talent",
-        "link": "/talent",
-        "external": false
+        "name": "Newsletter",
+        "link": "https://blitmap.mirror.xyz/",
+        "external": true
       },
       {
-        "name": "Podcasts",
-        "link": "/podcasts",
+        "name": "Memes",
+        "link": "/memes",
         "external": false
+      }
+    ]
+  },
+  {
+    "name":"other projects",
+    "current": false,
+    "defaultOpen": true,
+    "children": [
+      {
+        "name": "Loot",
+        "link": "https://www.lootproject.com/",
+        "external": true
       },
       {
-        "name": "Notes",
-        "link": "/notes",
-        "external": false
-      },
-
-      {
-        "name": "Blog",
-        "link": "https://nouns.blog/",
+        "name": "Corruption(s*)",
+        "link": "https://www.gem.xyz/collection/corruption-s/",
         "external": true
       }
     ]
-  }
+}
 ]

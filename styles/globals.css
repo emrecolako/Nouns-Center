@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -83,7 +83,7 @@
 @tailwind utilities;
 
 .text-nouns {
-  font-family: "Londrina Solid", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .text-pt {
@@ -160,7 +160,7 @@ h6 {
 
 .notion-text {
   font-size: 28px;
-  font-family: "Londrina Solid", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   letter-spacing: 0.07rem;
   text-decoration: underline;
 }
@@ -213,7 +213,7 @@ h6 {
 .introNouns .notion-h1,
 .notion-h2,
 .notion-h3 {
-  font-family: "Londrina Solid";
+  font-family: "Josefin Sans";
   font-size: 1.875em !important;
 }
 .introNouns .notion-text {
@@ -252,7 +252,7 @@ h6 {
 
 .introNouns .notion-link {
   color: #3e64ff;
-  font-family: "Londrina solid";
+  font-family: "Josefin Sans";
   letter-spacing: 0.05em;
   text-decoration: underline;
   transition-property: color, background-color, border-color,

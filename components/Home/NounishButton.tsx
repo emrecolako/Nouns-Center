@@ -16,9 +16,9 @@ export const Home: React.FC<{
 
   const [animate, setAnimate] = useState<boolean>(false);
 
-  useEffect(() => {
-    new Fountain({ buttonId: buttonId.toString() });
-  }, []);
+  // useEffect(() => {
+  //   new Fountain({ buttonId: buttonId.toString() });
+  // }, []);
 
   const animation = useCallback(async () => {
     setAnimate(true);

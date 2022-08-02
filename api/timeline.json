@@ -1,154 +1,164 @@
 [
   {
-    "date": "6/2/21",
+    "date": "04/13/2021",
+    "title": "jpeg rose",
+    "body": "dom teased jpeg rose which would become Rose #1",
+    "img": "jpegrose.png",
+    "link":"https://twitter.com/dhof/status/1382003869023080449",
+    "buttonText": "View tweet"
+    
+  },
+  {
+    "date": "05/31/21",
     "title": "First Public Tweet",
-    "body": "4156 laid out the broad strokes of what would become NounsDAO.",
-    "img": "pronoun.png",
-    "link": "https://twitter.com/punk4156/status/1400154938186031104",
+    "body": "dom announces blitmap",
+    "img": "blitmapannounce.png",
+    "link": "https://twitter.com/dhof/status/1399431425452032002",
     "buttonText": "View tweet"
   },
   {
-    "date": "6/2/21",
-    "title": "Initial Drafts",
-    "body": "Gremplin & 4156 look at the first sketches on which path to take for the art.",
-    "img": "eyes.png",
-    "link": "https://twitter.com/punk4156/status/1478755068920967177",
+    "date": "6/8/21",
+    "title": "Blitnauts Announcement",
+    "body": "dom teases initial artwork of Blitnauts",
+    "img": "blitnautsannounce.jpeg",
+    "link": "",
+    "buttonText": ""
+  },
+  {
+    "date": "6/19/2021",
+    "title": "Blitnaut #1: Cici",
+    "body": "Cici was the 1st Blitnaut to introduced to the Blitmap universe, announced via Twitter on June 19th, 2021.",
+    "img": "cici.gif",
+    "link": "https://twitter.com/blitmap/status/1406278743539265539",
     "buttonText": "View tweet"
   },
   {
-    "date": "6/2/21",
-    "title": "Protonoun",
-    "body": "The first published instance of the Nouns glasses. The ''eraser guy'' was dubbed Protonoun.",
-    "img": "proto.png",
-    "link": "https://twitter.com/punk4156/status/1478753490210017284",
+    "date":"06/24/2021",
+    "title": "Blitnaut #2: Roscoe",
+    "body": "Roscoe was the 2nd Blitnaut to introduced to the Blitmap universe, announced via Twitter on June 24th, 2021.",
+    "img": "roscoe.gif",
+    "link": "https://twitter.com/blitmap/status/1408064367015337994",
     "buttonText": "View tweet"
   },
   {
-    "date": "6/3/21",
-    "title": "Git init",
-    "body": "Vape Ape creates the first commit in the Github monorepo.",
-    "img": "init.png",
-    "link": "https://github.com/nounsDAO/nouns-monorepo/commit/85e8da5231dbecca77d92fb67e041b43ce5bcb4b",
-    "buttonText": "View commit"
-  },
-  {
-    "date": "6/3/21",
-    "title": "Nounish Design",
-    "body": "The rough Noun aesthetics were decided upon and it was time to iterate &#38; polish.",
-    "img": "noun.jpeg",
-    "link": "https://twitter.com/punk4156/status/1478753490210017284",
+    "date": "06/27/2021",
+    "title": "Blitnaut #3: Fizz",
+    "body": "Fizz was the 3rd Blitnaut to introduced to the Blitmap universe, announced via Twitter on June 27th, 2021.",
+    "img": "fizz.gif",
+    "link": "https://twitter.com/blitmap/status/1409158392921395203",
     "buttonText": "View tweet"
   },
   {
-    "date": "6/9/21",
-    "title": "Glasses & Body Done",
-    "body": "The rough Noun aesthetics were decided upon and it was time to iterate & polish.",
-    "img": "glasses.png",
-    "link": "https://twitter.com/punk4156/status/1478880625356648449?s=20&t=ICXZG1qCi_W0vkAYtDxh0Q",
+    "date": "07/01/2021",
+    "title": "Blitnaut #4: Argo",
+    "body": "Argo was the 4th Blitnaut to introduced to the Blitmap universe, announced via Twitter on July 1st, 2021.",
+    "img": "argo.gif",
+    "link": "https://twitter.com/blitmap/status/1410609613985107971",
     "buttonText": "View tweet"
   },
   {
-    "date": "6/13/21",
-    "title": "Early UI",
-    "body": "Draft idea of nouns.wtf.",
-    "img": "earlyui.jpeg",
-    "link": "https://twitter.com/nounsdao/status/1404103574129418241?s=20&t=VWEHEQgvoUQLGsOI9K-Q_g",
+    "date": "07/02/2021",
+    "title": "The Blitmap collection has been completed",
+    "body": "All 1700 Blitmaps have been crafted, the collection minted out on July 2nd, 2021.",
+    "img": "blitmapcomplete.jpeg",
+    "link": "https://twitter.com/blitmap/status/1411002441399742464",
     "buttonText": "View tweet"
   },
   {
-    "date": "6/16/21",
-    "title": "Digitally Rare Pod",
-    "body": "4156 appears on the podcast, Digitally Rare to discuss the project.",
-    "img": "rare.jpeg",
-    "link": "https://anchor.fm/digitallyrare/episodes/How-Now--Noun-DAO--4156-Interview-e160k9n",
-    "buttonText": "Listen to episode"
+    "date": "07/12/2021",
+    "title": "The Blitnaut Name Contest",
+    "body": "@Antonucci won The Blitnaut Name Contest where the grand prize was an Original blitmap, and two runnners-up won siblings!",
+    "img": "blitnautname.png",
+    "link": "",
+    "buttonText": ""
   },
   {
-    "date": "7/7/21",
-    "title": "Website Iteration",
-    "body": "Another draft idea of nouns.wtf.",
-    "img": "website.jpeg",
-    "link": "https://twitter.com/nounsdao/status/1412944336896073731",
+    "date": "07/26/2021",
+    "title": "Blitnaut #7: Teddy",
+    "body": "",
+    "img": "teddy.jpeg",
+    "link": "https://twitter.com/blitmap/status/1419740302915653641",
     "buttonText": "View tweet"
   },
   {
-    "date": "7/16/21",
-    "title": "Rinkeby Testing",
-    "body": "Nouns public testnet goes live for final testing.",
-    "img": "testnet.jpeg",
-    "link": "https://twitter.com/nounsdao/status/1416100755908464641",
+    "date":"07/30/2021",
+    "title":"Eggplant City was burned",
+    "body":"0xBB sent Eggplant City to burn address reducing the total supply of Blitmaps to 1699 ",
+    "img":"eggplantcity.png",
+    "link":"",
+    "buttonText":""
+  },
+  {
+    "date": "07/30/2021",
+    "title": "Blitnaut #8 — Quark",
+    "body": "",
+    "img": "quark.gif",
+    "link": "https://twitter.com/blitmap/status/1421199612493369349 ",
     "buttonText": "View tweet"
   },
   {
-    "date": "8/1/21",
-    "title": "First Extension Project",
-    "body": "Noun GAN Study by VanArman, based off the Rinkeby Nouns, releases on OpenSea.",
-    "img": "noungan.png",
-    "link": "https://opensea.io/collection/noun-gan",
-    "buttonText": "OpenSea"
+    "date": "08/05/2021",
+    "title": "$BLITSQUAD",
+    "body": "BLITSQUAD was a PartyBid for bidding on our commemorative piece on Foundation initiated by itzler on behalf of Variant Fund.",
+    "img": "blitmapcomplete.jpeg",
+    "link": "https://fractional.art/vaults/0x010077fc828D7716d77D4082c2b246859fb625E1",
+    "buttonText": "Visit Fractional.art"
   },
   {
-    "date": "8/8/21",
-    "title": "Project Launch",
-    "body": "The experiment called Nouns begins and Xaix wins Auction #1 for 613.37 ETH.",
-    "img": "auction1.png",
-    "link": "https://nouns.wtf/noun/1",
-    "buttonText": "View auction"
+    "date":"08/23/2021",
+    "title":"Sugar (Genesis) - A Game",
+    "body":"Sugar.game has been teased and the imagery of the first item has been shared",
+    "img":"plutosquill.png",
+    "link":"https://opensea.io/collection/sugar-genesis",
+    "buttonText":"Visit Opensea"
   },
   {
-    "date": "8/18/21",
-    "title": "Noun Fractionalized",
-    "body": "Noun 11 was bought by PartDAO and became the first fractionalized Noun.",
-    "img": "party.png",
-    "link": "https://www.partybid.app/party/0xd6ba6f10c981CC8C6C8244EC7d7Dc5BD81865333",
-    "buttonText": "View PartyBid"
+    "date":"08/24/2021",
+    "title":"Sugar (Genesis) - Song of Fire",
+    "body":"Song of Fire was just airdropped to all Blitmap owners.",
+    "img":"softfire-2.png",
+    "link":"https://opensea.io/assets/ethereum/0xcaea26bdccfa9090d056b6533a608c6157caa948/3",
+    "buttonText":"Visit Opensea"
   },
   {
-    "date": "9/2/21",
-    "title": "First proposal passes",
-    "body": "The DAO's first proposal, 'Donate 5 ETH each to 6 Charities', passes",
-    "img": "prop1.png",
-    "link": "https://nouns.wtf/vote/1",
-    "buttonText": "Read proposal"
+    "date":"08/12/2021",
+    "title":"Blitmap is public domain",
+    "body":"The original Blitmap collection was made public domain under CC0.",
+    "img":"",
+    "link":"https://blitmap.mirror.xyz/b-ANHRCj78z9Qy6Dk-kgjOsFtIqoVsQAS5DNNygU10U",
+    "buttonText":"Visit mirror.xyz"
   },
   {
-    "date": "10/27/21",
-    "title": "First secondary sale",
-    "body": "Noun 40 sold on OpenSea.",
-    "img": "sale1.png",
-    "link": "https://etherscan.io/tx/0x134f026c73a7940b231f126bc2e6338664412eee4a08c12c859c57df40792905",
-    "buttonText": "View sale"
+    "date":"08/27/2021",
+    "title":"",
+    "body":"",
+    "img":"loot.png",
+    "link":"https://twitter.com/dhof/status/1431316631934967815",
+    "buttonText":"View tweet"
+    
   },
   {
-    "date": "10/01/21",
-    "title": "First Auction Fork",
-    "body": "The extension project, Alt Nouns, forked the distribution mechanism.",
-    "img": "alt.jpeg",
-    "link": "https://twitter.com/onChainCo/status/1454538053540843521?s=20&t=kXPt-IlHgwnwcTf85oBcpA",
-    "buttonText": "Read more"
+    "date":"09/10/2021",
+    "title":"The Blitnauts Launch",
+    "body":"The Blitnauts expansion pack has officially launched!",
+    "img":"Blitnauts.png",
+    "link":"https://blitnauts.blitmap.com/",
+    "buttonText":"Visit Blitnauts"
   },
   {
-    "date": "10/31/21",
-    "title": "Small Grants Committee",
-    "body": "Prop 13 passes and the 'Small Grants and Retro Funding' committee forms to help empower builders.",
-    "img": "smallgrants.png",
-    "link": "https://nouns.center/funding",
-    "buttonText": "Funded projects"
-  },
-  {
-    "date": "12/25/21",
-    "title": "FOMO community-mints Noun",
-    "body": "The 'FOMO Nouns' project (proposal 13) delivers the first community-minted Noun.",
-    "img": "fomo.png",
-    "link": "https://nouns.wtf/vote/8",
-    "buttonText": "Learn about FOMO"
-  },
-  {
-    "date": "2/8/22",
-    "title": "Nouns x Superbowl",
-    "body": "Nouns glasses appeard in the BudLight commercial for Superbowl LVI.",
-    "img": "bud.png.webp",
-    "link": "https://youtu.be/2rGOf_caxhQ?t=36",
-    "buttonText": "Watch commercial"
+    "date":"09/10/2021",
+    "title":"The Blitnauts Launch",
+    "body":"The Blitnauts expansion pack has officially launched!",
+    "img":"Blitnauts.png",
+    "link":"https://blitnauts.blitmap.com/",
+    "buttonText":"Visit Blitnauts"
   }
+
+
+  
+
+  
+
+
+  
 ]

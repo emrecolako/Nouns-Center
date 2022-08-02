@@ -16,9 +16,9 @@ const PageContent = ({ children }) => {
         <>
           <Divider />
 
-          <div className="sm:ml-20 mb-2">
+          {/* <div className="sm:ml-20 mb-2">
             <Newsletter />
-          </div>
+          </div> */}
 
           <Footer />
         </>

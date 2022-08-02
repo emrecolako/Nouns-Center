@@ -25,13 +25,17 @@ const Projects = () => {
 
   const categories = [
     { id: "all", title: "All" },
-    { id: "nfts", title: "NFTs" },
-    { id: "proposal", title: "Proposal" },
-    { id: "prop-house", title: "Prop House" },
-    { id: "small-grants", title: "Small Grants" },
-    { id: "merch", title: "Merch" },
-    { id: "stats", title: "Stats" },
-    { id: "misc", title: "Misc" },
+    { id: "NFT", title: "NFTs" },
+    { id: "DAO", title: "DAO" },
+    { id: "Fractionalized Token", title: "Fractionalized Token" }
+
+
+    // { id: "proposal", title: "Proposal" },
+    // { id: "prop-house", title: "Prop House" },
+    // { id: "small-grants", title: "Small Grants" },
+    // { id: "merch", title: "Merch" },
+    // { id: "stats", title: "Stats" },
+    // { id: "misc", title: "Misc" },
   ];
 
   const getProjectsText = (curr: string) => {
@@ -83,14 +87,14 @@ const Projects = () => {
   return (
     <div className="mb-16">
       <PageHeader>
-        <Header title="Projects | Nouns Center" />
+        <Header title="Projects | Blitmap Center" />
         <Title title="Projects" />
         <Subheader
           title={`${filteredProjects.length} ${projectsText}`}
-          body="Here's a comprehensive list of all the projects in the NounsDAO ecosystem. If you don't see your project here and would like to add it, click the button to have it added to the backlog. The site is updated with new projects once a week."
+          body="Here's a comprehensive list of all the projects in the Blitmap ecosystem. If you don't see your project here and would like to add it, click the button to have it added to the backlog. The site will be updated with new projects once a week."
         />
         <Button
-          link="https://www.addressform.io/form/9e6bc6c2-0f0d-4420-b66e-0d416a5fe73a"
+          link="https://forms.gle/zL37WRAwGtwY1Kmj7"
           text="Submit your project"
         />
       </PageHeader>

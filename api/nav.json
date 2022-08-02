@@ -10,19 +10,9 @@
     "link": "/projects"
   },
   {
-    "name": "Dev",
-    "current": false,
-    "link": "/dev"
-  },
-  {
     "name": "Nouners",
     "current": false,
     "link": "/nouners"
-  },
-  {
-    "name": "History",
-    "current": false,
-    "link": "/history"
   },
   {
     "name": "Funding",
@@ -33,22 +23,6 @@
     "name": "Traits",
     "current": false,
     "link": "/traits"
-  },
-  {
-    "name": "Podcast",
-    "current": false,
-    "link": "/podcast"
-  },
-  {
-    "name": "Talent",
-    "current": false,
-    "link": "/talent"
-  },
-
-  {
-    "name": "Notes",
-    "current": false,
-    "link": "/notes"
   },
   {
     "name": "Assets",
