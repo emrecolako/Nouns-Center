@@ -28,7 +28,7 @@ const Hero = () => {
           <main className="mx-auto sm:px-4 tracking-wider text-black ">
             <div className="text-center flex flex-col justify-between h-full xs:px-6 sm:px-0">
               <h1 className=" font-extrabold text-5xl md:text-6xl text-nouns tracking-wider flex gap-4 justify-center">
-                Welcome to Blitmap Center
+                Welcome to Blit Center
               </h1>
 
               <div className="mt-6 sm:mb-14" id="autocomplete"></div>
@@ -51,11 +51,11 @@ const Hero = () => {
                   color="bg-[#028940]"
                 />
                 <NounishButton
-                  text="Blitnauts"
+                  text="History"
                   image="Blitnauts.png"
                   buttonId={"three"}
                   buttonAction={action}
-                  path="funding"
+                  path="history"
                   color="bg-[#A734A3]"
                 />
                 <NounishButton

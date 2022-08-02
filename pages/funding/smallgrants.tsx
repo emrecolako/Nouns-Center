@@ -41,7 +41,7 @@ const smallgrants = ({ grantsData }) => {
   return grantsData ? (
     <>
       <PageHeader>
-        <Header title="Small Grants | Nouns Center" />
+        <Header title="Small Grants | Blit Center" />
         <Title title="Funding: Small Grants" />
 
         <Subheader

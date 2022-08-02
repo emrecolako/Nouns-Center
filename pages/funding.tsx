@@ -150,7 +150,7 @@ const Funding = ({ grantsData }) => {
   return (
     <>
       <PageHeader>
-        <Header title="Funding | Nouns Center" />
+        <Header title="Funding | Blit Center" />
         <Title title="Funding" />
 
         <Subheader body="Looking to get funding for a Nounish project? There are many ways to go about doing so! Below you can compare the different avenues. It's important to take in to consideration project scope and timeline." />

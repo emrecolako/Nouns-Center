@@ -15,16 +15,6 @@
         "external": false
       },
       {
-        "name": "Blitnauts",
-        "link": "/blitnauts",
-        "external": false
-      },
-      {
-        "name": "Logos",
-        "link": "/logos",
-        "external": false
-      },
-      {
         "name": "History",
         "link": "/history",
         "external": false
@@ -47,8 +37,8 @@
         "external": true
       },
       {
-        "name": "Memes",
-        "link": "/memes",
+        "name": "Misc",
+        "link": "/misc",
         "external": false
       }
     ]
@@ -65,7 +55,7 @@
       },
       {
         "name": "Corruption(s*)",
-        "link": "https://www.gem.xyz/collection/corruption-s/",
+        "link": "https://corruptions.io/",
         "external": true
       }
     ]

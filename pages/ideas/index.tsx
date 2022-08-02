@@ -107,7 +107,7 @@ const Ideas = ({ ideas, ideas_likes }) => {
   return (
     <>
       <PageHeader>
-        <Header title="Ideas | Nouns Center" />
+        <Header title="Ideas | Blit Center" />
         <Title title="Ideas" />
         <Subheader
           title="Grab an idea, get to building"

@@ -13,11 +13,7 @@ import PageContent from "../components/Layout/PageContent";
 import Button from "../components/common/Button";
 
 const Traits = () => {
-  const heads = traits.heads;
   const originals = traits.originals;
-  const glasses = traits.glasses;
-  const bodies = traits.bodies;
-  const accessories = traits.accessories;
 
   const assetsPage = (
     <Link leavesPage={false} text="assets page" url="/assets" />
@@ -26,19 +22,18 @@ const Traits = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Blitmaps | Blitmap Center" />
+        <Header title="Blitmaps | Blit Center" />
         <Title title="Blitmaps" />
 
         <Subheader
           title="100 Originals | 1600 Siblings"
           body={
             <p>
-             Blitmap consists of 100 original pixel art pieces created by 17 artists. Minters could combined any two of originals to create a sibling, 
-             which is a new piece that combines the composition of the first and the color palette of the second.
+             Blitmap started as an art project where 17 artists made 100 original 32 x 32-pixel art pieces and minters could combine any of those two to create a sibling. The siblings were new pieces that combined the composition of the first and the colour palette of the second original. The name of the sibling becomes the combination of both originals. The collection was completed on July 2, 2021.
             </p>
           }
         />
-        <Button link="/assets/assets_png.zip" text="Download Blitmaps" download />
+        {/* <Button link="/assets/assets_png.zip" text="Download Blitmaps" download /> */}
       </PageHeader>
 
       <PageContent>

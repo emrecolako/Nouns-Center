@@ -15,7 +15,7 @@ const { chains, provider } = configureChains(
 );
 
 const { connectors } = getDefaultWallets({
-  appName: 'Nouns Center',
+  appName: 'Blit Center',
   chains,
 });
 

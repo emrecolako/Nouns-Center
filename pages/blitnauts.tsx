@@ -13,12 +13,7 @@ import PageContent from "../components/Layout/PageContent";
 import Button from "../components/common/Button";
 
 const Traits = () => {
-  const heads = traits.heads;
   const originals = traits.originals;
-  const siblings = traits.siblings;
-  const glasses = traits.glasses;
-  const bodies = traits.bodies;
-  const accessories = traits.accessories;
 
   const assetsPage = (
     <Link leavesPage={false} text="assets page" url="/assets" />
@@ -27,14 +22,15 @@ const Traits = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Blitnauts | Blitmap Center" />
-        <Title title="Blitnauts" />
+        <Header title="Blitmaps | Blit Center" />
+        <Title title="Blitmaps" />
 
         <Subheader
-          title="1699 Blitnauts for 1699 Blitmaps"
+          title="100 Originals | 1600 Siblings"
           body={
             <p>
-             Blitnauts are the first expansion pack of the Blitmap universe, free to anyone holding a Blitmap at the time of launch. They are highly customizable avatar-vessels for the original Blitmaps whose story will evolve with the expansions of the Blitmap universe.
+             Blitmap consists of 100 original pixel art pieces created by 17 artists. Minters could combined any two of originals to create a sibling, 
+             which is a new piece that combines the composition of the first and the color palette of the second.
             </p>
           }
         />
@@ -50,31 +46,18 @@ const Traits = () => {
             {originals &&
               originals.map((originals) => (
                 <div key={uuidv4()} className="flex flex-col items-center mb-8">
-                  <img
-                    src={`/blitmaps/originals/${originals.image}.png`}
+                    
+                  <a 
+                    href={`https://www.blitmap.com/details?id=${originals.image}`} target="_blank"  rel="noreferrer">
+                    
+                    <img
+                    src={`/traits/blitmaps/originals/${originals.image}.png`}
                     alt="original"
-                    href={`https://www.blitmap.com/details?id=${originals.image}`}
                   />
+                  </a>
                   
                   <p className="text-nouns text-black text-center tracking-wider xs:text-sm sm:text-lg">
                     {originals.name}
-                    {/* link={`https://www.blitmap.com/details?id=${originals.image}`} */}
-                  </p>
-                </div>
-              ))}
-          </div>
-          <div className="grid xs:grid-cols-4 sm:grid-cols-5 lg:grid-cols-6 xl:grid-cols-6 gap-2 ">
-            {siblings &&
-              siblings.map((siblings) => (
-                <div key={uuidv4()} className="flex flex-col items-center mb-8">
-                  <img
-                    src={`/blitmaps/siblings/${siblings.image}.png`}
-                    alt="original"
-                    href={`https://www.blitmap.com/details?id=${siblings.image}`}
-                  />
-                  
-                  <p className="text-nouns text-black text-center tracking-wider xs:text-sm sm:text-lg">
-                    {siblings.name}
                     {/* link={`https://www.blitmap.com/details?id=${originals.image}`} */}
                   </p>
                 </div>

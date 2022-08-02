@@ -17,7 +17,7 @@
   },
   {
     "title": "$BLITSQUAD",
-    "description": "BLITSQUAD was initially a PartyBid initiated by community member itzler on behalf of Variant Fund.",
+    "description": "BLITSQUAD was a PartyBid initiated to bid on Blitmap - The Collection.",
     "creator": ["itzler"],
     "category": ["Fractionalized Token"],
     "url": "https://fractional.art/vaults/0x010077fc828D7716d77D4082c2b246859fb625E1",
@@ -46,6 +46,14 @@
     "category": ["NFT"],
     "url": "https://www.blitblox.com/",
     "image":"Blitblox.png"
+  },
+  {
+    "title": "Blitwear",
+    "description": "The Blitwear collection is made up of 20 unique designs and 5 customizable varsity jackets, which will be sold via 1 of 1 NFTs that can be redeemed for the 1 of 1 bespoke physical garment. They look really incredible.",
+    "creator": ["gwanstefani"],
+    "category": ["Merch"],
+    "url": "https://www.blitwear.com/",
+    "image":"blitwear.png"
   },
   {
     "title": "Blitoadz",

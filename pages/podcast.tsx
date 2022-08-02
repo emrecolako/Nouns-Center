@@ -16,7 +16,7 @@ const Podcast = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Podcast | Nouns Center" />
+        <Header title="Podcast | Blit Center" />
         <Title title="Podcast" />
 
         <Subheader

@@ -10,7 +10,7 @@ const Custom404 = () => {
   return (
     <>
       <PageHeader>
-        <Header title="404 | Blitmap Center" />
+        <Header title="404 | Blit Center" />
         <Title title="404: Page Not Found" />
       </PageHeader>
 

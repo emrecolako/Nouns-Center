@@ -26,7 +26,7 @@ const Nouners = ({ onboardData }) => {
   return (
     <>
       <PageHeader>
-        <Header title="Nouners | Nouns Center" />
+        <Header title="Nouners | Blit Center" />
         <Title title="Nouners" />
 
         <Subheader

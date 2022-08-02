@@ -7,7 +7,7 @@ import PageContent from "../components/Layout/PageContent";
 import PageHeader from "../components/Layout/PageHeader";
 import Button from "../components/common/Button";
 
-const introToBlitmapNotionPage = "c868403101944d49846e5a1e27b7a6bd";
+const MiscNotionPage = "a2cc13c0ff154063a05f8ca963a22a00";
 
 export async function getStaticProps() {
   let data = [];
@@ -16,7 +16,7 @@ export async function getStaticProps() {
 
   try {
     const res = await fetch(
-      `https://notion-api.splitbee.io/v1/page/${introToBlitmapNotionPage}`
+      `https://notion-api.splitbee.io/v1/page/${MiscNotionPage}`
     );
     if (res.status !== 200)
       throw String(`Invalid server response: ${res.status} ${res.statusText}`);
@@ -35,15 +35,15 @@ export async function getStaticProps() {
   };
 }
 
-const Intro = ({ docsData }) => {
+const Misc = ({ docsData }) => {
   return docsData ? (
     <>
       <PageHeader>
-        <Header title="Intro | Blit Center" />
-        <Title title="Intro" />
+        <Header title="Misc | Blit Center" />
+        <Title title="Misc" />
 
         <Subheader
-          title="What is Blitmap?"
+          title=""
         />
       </PageHeader>
 
@@ -57,4 +57,4 @@ const Intro = ({ docsData }) => {
     <></>
   );
 };
-export default Intro;
+export default Misc;

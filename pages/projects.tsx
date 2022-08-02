@@ -27,7 +27,8 @@ const Projects = () => {
     { id: "all", title: "All" },
     { id: "NFT", title: "NFTs" },
     { id: "DAO", title: "DAO" },
-    { id: "Fractionalized Token", title: "Fractionalized Token" }
+    { id: "Fractionalized Token", title: "Fractionalized Token" },
+    { id: "Merch", title: "Merch" },
 
 
     // { id: "proposal", title: "Proposal" },
@@ -87,7 +88,7 @@ const Projects = () => {
   return (
     <div className="mb-16">
       <PageHeader>
-        <Header title="Projects | Blitmap Center" />
+        <Header title="Projects | Blit Center" />
         <Title title="Projects" />
         <Subheader
           title={`${filteredProjects.length} ${projectsText}`}

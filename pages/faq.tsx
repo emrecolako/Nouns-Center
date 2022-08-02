@@ -5,7 +5,7 @@ import Title from "../components/Title";
 const FAQ = () => {
   return (
     <div>
-      <Header title="FAQ | Nouns Center" />
+      <Header title="FAQ | Blit Center" />
       <Title title="FAQ" />
     </div>
   );

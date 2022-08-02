@@ -2,7 +2,7 @@
   {
     "date": "04/13/2021",
     "title": "jpeg rose",
-    "body": "dom teased jpeg rose which would become Rose #1",
+    "body": "dom teases jpeg rose which would become Rose #1",
     "img": "jpegrose.png",
     "link":"https://twitter.com/dhof/status/1382003869023080449",
     "buttonText": "View tweet"
@@ -27,33 +27,9 @@
   {
     "date": "6/19/2021",
     "title": "Blitnaut #1: Cici",
-    "body": "Cici was the 1st Blitnaut to introduced to the Blitmap universe, announced via Twitter on June 19th, 2021.",
+    "body": "Cici is the 1st Blitnaut to introduced to the Blitmap universe",
     "img": "cici.gif",
     "link": "https://twitter.com/blitmap/status/1406278743539265539",
-    "buttonText": "View tweet"
-  },
-  {
-    "date":"06/24/2021",
-    "title": "Blitnaut #2: Roscoe",
-    "body": "Roscoe was the 2nd Blitnaut to introduced to the Blitmap universe, announced via Twitter on June 24th, 2021.",
-    "img": "roscoe.gif",
-    "link": "https://twitter.com/blitmap/status/1408064367015337994",
-    "buttonText": "View tweet"
-  },
-  {
-    "date": "06/27/2021",
-    "title": "Blitnaut #3: Fizz",
-    "body": "Fizz was the 3rd Blitnaut to introduced to the Blitmap universe, announced via Twitter on June 27th, 2021.",
-    "img": "fizz.gif",
-    "link": "https://twitter.com/blitmap/status/1409158392921395203",
-    "buttonText": "View tweet"
-  },
-  {
-    "date": "07/01/2021",
-    "title": "Blitnaut #4: Argo",
-    "body": "Argo was the 4th Blitnaut to introduced to the Blitmap universe, announced via Twitter on July 1st, 2021.",
-    "img": "argo.gif",
-    "link": "https://twitter.com/blitmap/status/1410609613985107971",
     "buttonText": "View tweet"
   },
   {
@@ -67,42 +43,34 @@
   {
     "date": "07/12/2021",
     "title": "The Blitnaut Name Contest",
-    "body": "@Antonucci won The Blitnaut Name Contest where the grand prize was an Original blitmap, and two runnners-up won siblings!",
+    "body": "@Antonucci wins The Blitnaut Name Contest where the grand prize was an Original blitmap, and two runnners-up win siblings!",
     "img": "blitnautname.png",
     "link": "",
     "buttonText": ""
   },
   {
-    "date": "07/26/2021",
-    "title": "Blitnaut #7: Teddy",
-    "body": "",
-    "img": "teddy.jpeg",
-    "link": "https://twitter.com/blitmap/status/1419740302915653641",
-    "buttonText": "View tweet"
-  },
-  {
     "date":"07/30/2021",
-    "title":"Eggplant City was burned",
-    "body":"0xBB sent Eggplant City to burn address reducing the total supply of Blitmaps to 1699 ",
+    "title":"Eggplant City is burned",
+    "body":"0xBB sends Eggplant City to burn address reducing the total supply of Blitmaps to 1699 ",
     "img":"eggplantcity.png",
     "link":"",
     "buttonText":""
   },
   {
-    "date": "07/30/2021",
-    "title": "Blitnaut #8 — Quark",
-    "body": "",
-    "img": "quark.gif",
-    "link": "https://twitter.com/blitmap/status/1421199612493369349 ",
-    "buttonText": "View tweet"
-  },
-  {
     "date": "08/05/2021",
     "title": "$BLITSQUAD",
-    "body": "BLITSQUAD was a PartyBid for bidding on our commemorative piece on Foundation initiated by itzler on behalf of Variant Fund.",
+    "body": "BLITSQUAD is a PartyBid for bidding on our commemorative piece on Foundation initiated by itzler on behalf of Variant Fund.",
     "img": "blitmapcomplete.jpeg",
     "link": "https://fractional.art/vaults/0x010077fc828D7716d77D4082c2b246859fb625E1",
     "buttonText": "Visit Fractional.art"
+  },
+  {
+    "date":"08/12/2021",
+    "title":"Blitmap is public domain",
+    "body":"The original Blitmap collection was made public domain under CC0.",
+    "img":"",
+    "link":"https://blitmap.mirror.xyz/b-ANHRCj78z9Qy6Dk-kgjOsFtIqoVsQAS5DNNygU10U",
+    "buttonText":"Visit mirror.xyz"
   },
   {
     "date":"08/23/2021",
@@ -115,18 +83,10 @@
   {
     "date":"08/24/2021",
     "title":"Sugar (Genesis) - Song of Fire",
-    "body":"Song of Fire was just airdropped to all Blitmap owners.",
+    "body":"Song of Fire is airdropped to all Blitmap owners.",
     "img":"softfire-2.png",
     "link":"https://opensea.io/assets/ethereum/0xcaea26bdccfa9090d056b6533a608c6157caa948/3",
     "buttonText":"Visit Opensea"
-  },
-  {
-    "date":"08/12/2021",
-    "title":"Blitmap is public domain",
-    "body":"The original Blitmap collection was made public domain under CC0.",
-    "img":"",
-    "link":"https://blitmap.mirror.xyz/b-ANHRCj78z9Qy6Dk-kgjOsFtIqoVsQAS5DNNygU10U",
-    "buttonText":"Visit mirror.xyz"
   },
   {
     "date":"08/27/2021",
@@ -146,13 +106,65 @@
     "buttonText":"Visit Blitnauts"
   },
   {
-    "date":"09/10/2021",
-    "title":"The Blitnauts Launch",
-    "body":"The Blitnauts expansion pack has officially launched!",
-    "img":"Blitnauts.png",
-    "link":"https://blitnauts.blitmap.com/",
-    "buttonText":"Visit Blitnauts"
+    "date":"10/11/2021",
+    "title":"Blitnauts are public domain",
+    "body":"The Blitnaut collection have been released under CC0.",
+    "img":"blitnautscc0.png",
+    "link":"https://blitmap.mirror.xyz/KrZT0ub7DqaLyEim5phEffpcNJboKdRHdBM5FgeAylc",
+    "buttonText":"Visit mirror.xyz"
+  },
+  {
+    "date":"10/28/2021",
+    "title":"Blitmap Collection 3 Announcement",
+    "body":"dom announces Blitmap Collection 3 aka Logos on Discord",
+    "img":"logosannouncement.png",
+    "link":"",
+    "buttonText":""
+  },
+
+  {
+    "date":"12/02/2021",
+    "title":"Collection 3 Decision Process Kicks Off",
+    "body":"A list of 13 enemy options are shared with the community to vote on. After this community members created tier lists with their favourite faction options.",
+    "img":"logox.png",
+    "link":"",
+    "buttonText":""
+  },
+  {
+    "date":"01/13/2021",
+    "title":"Logos aka Log.0x (or 'The Logox') are the winners!",
+    "body":"They will be the basis for the Rivals expansion. ",
+    "img":"",
+    "link":"",
+    "buttonText":""
+  },
+  {
+    "date":"02/10/2022",
+    "title":"Sup has raised a $12M seed round led by Paradigm",
+    "body":"Sup is a company started by @Totally and dom, with the mission of creating and nurturing open, community-driven (and hopefully important!) fictional universes. And it starts here with Blitmap.",
+    "img":"supraise.png",
+    "link":"https://twitter.com/supdotxyz/status/1491810114415833096",
+    "buttonText":"View tweet"
+  },
+  {
+    "date":"03/01/2022",
+    "title":" BLITWEAR",
+    "body":"The Blitwear collection is made up of 20 unique designs and 5 customizable varsity jackets, which will be sold via 1 of 1 NFTs that can be redeemed for the 1 of 1 bespoke physical garment.",
+    "img":"blitwear.png",
+    "link":"blitwear.com",
+    "buttonText":"Visit blitwear"
+  },
+  {
+
+    "date":"03/01/2022",
+    "title":" Meet the Logos",
+    "body":"Blitmap teased new art for the upcoming collection: Logos",
+    "img":"logostease.png",
+    "link":"https://twitter.com/blitmap/status/1512470563658285062",
+    "buttonText":"View tweet"
+    
   }
+  
 
 
   

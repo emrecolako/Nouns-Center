@@ -64,7 +64,7 @@ const proposals = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Proposals | Nouns Center" />
+        <Header title="Proposals | Blit Center" />
         <Title title="Funding: Proposals" />
 
         <Subheader

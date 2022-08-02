@@ -12,7 +12,7 @@ const prophouse = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Prop House | Nouns Center" />
+        <Header title="Prop House | Blit Center" />
         <Title title="Funding: Prop House" />
 
         <Subheader

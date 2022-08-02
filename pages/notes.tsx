@@ -86,7 +86,7 @@ const Notes = ({ tableIds }) => {
   return (
     <>
       <PageHeader>
-        <Header title="Notes | Nouns Center" />
+        <Header title="Notes | Blit Center" />
         <Title title="Notes" />
 
         <Subheader

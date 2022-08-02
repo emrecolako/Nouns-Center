@@ -97,7 +97,7 @@ const Idea = ({ idea }) => {
   return (
     <>
       <PageHeader>
-        <Header title="Ideas | Nouns Center" />
+        <Header title="Ideas | Blit Center" />
         <Title title="Ideas" />
       </PageHeader>
 

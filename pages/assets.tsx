@@ -13,7 +13,7 @@ const Assets = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Assets | Nouns Center" />
+        <Header title="Assets | Blit Center" />
         <Title title="Assets" />
 
         <Subheader

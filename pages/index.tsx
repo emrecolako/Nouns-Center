@@ -22,7 +22,7 @@ export default function Home() {
           `}
       </Script>
 
-      <Header title="Nouns Center" />
+      <Header title="Blit Center" />
 
       <Hero />
     </>

@@ -11,7 +11,7 @@ const Channels = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Channels | Nouns Center" />
+        <Header title="Channels | Blit Center" />
         <Title title="Channels" />
 
         <Subheader body="A quick overview of everything." />

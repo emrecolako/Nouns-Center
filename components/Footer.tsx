@@ -9,8 +9,8 @@ const Footer = () => {
     <div className="relative xs:px-6 sm:px-0 text-black font-medium gap-2 items-center w-full flex flex-col text-center">
       {asPath === "/" && (
         <p>
-          Blitmap Center serves as the knowledge center &#38; resource hub for
-          Blitmap universe. This site is a fork of Nouns Center built by cdt.
+          Blit Center serves as the knowledge center &#38; resource hub for
+          Blitmap universe. This site is a fork of Nouns Center built by @cdt_eth maintained by @emrecolako.
         </p>
       )}
 
