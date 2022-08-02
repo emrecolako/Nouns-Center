@@ -11,7 +11,7 @@ const History = () => {
   return (
     <>
       <PageHeader>
-        <Header title="History | Nouns Center" />
+        <Header title="History | Blit Center" />
         <Title title="History" />
 
         <Subheader

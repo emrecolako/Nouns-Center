@@ -9,7 +9,7 @@ export default function Home() {
     <>
       {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
       <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-6K115N5T7V"
+        src="https://www.googletagmanager.com/gtag/js?id=G-0Q29XY193X"
         strategy="afterInteractive"
       />
       <Script id="google-analytics" strategy="afterInteractive">

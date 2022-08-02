@@ -57,6 +57,11 @@
         "name": "Corruption(s*)",
         "link": "https://corruptions.io/",
         "external": true
+      },
+      {
+        "name": "Sugar",
+        "link": "https://opensea.io/collection/sugar-genesis",
+        "external": true
       }
     ]
 }
