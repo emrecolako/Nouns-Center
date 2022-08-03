@@ -95,7 +95,14 @@
     "img":"loot.png",
     "link":"https://twitter.com/dhof/status/1431316631934967815",
     "buttonText":"View tweet"
-    
+  },
+  {
+    "date":"08/27/2021",
+    "title":"Warm Vibes Only",
+    "body":"Jonathan Mann releases a song about Blitmap",
+    "img":"blitsong.png",
+    "link":"https://twitter.com/songadaymann/status/1435663988914798594",
+    "buttonText":"View tweet"
   },
   {
     "date":"09/10/2021",

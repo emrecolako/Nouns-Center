@@ -56,6 +56,14 @@
     "image":"blitwear.png"
   },
   {
+    "title": "Blitkicks",
+    "description": "In collaboration with the Blitmap community, Endstate presents the Blitkick: the definitive way to rep Blitmaps in the physical world. The sneaker takes inspiration from the iconic Originals: Rose #1, Logo #84, and Genesis #0.",
+    "creator": ["bennett"],
+    "category": ["Merch"],
+    "url": "https://mint.endstate.io/blitkick",
+    "image":"blitkicks.png"
+  },
+  {
     "title": "Blitoadz",
     "description": "Blitoadz is a blitmap x CrypToadz derivative collection created under the terms of CC0 . 100% stored on-chain",
     "creator": ["Focus Points, Clément, Georges"],
