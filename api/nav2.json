@@ -1,6 +1,6 @@
 [
   {
-    "name": "About Blitmap",
+    "name": "About",
     "defaultOpen": true,
     "current": false,
     "children": [
@@ -17,6 +17,11 @@
       {
         "name": "History",
         "link": "/history",
+        "external": false
+      },
+      {
+        "name": "Artists",
+        "link": "/artists",
         "external": false
       }
     ]

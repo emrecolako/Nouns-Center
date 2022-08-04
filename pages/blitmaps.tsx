@@ -56,7 +56,8 @@ const Traits = () => {
                   </a>
                   
                   <p className="text-nouns text-black text-center tracking-wider xs:text-sm sm:text-lg">
-                    {originals.name}
+                    {originals.name} 
+                    {/* by {originals.artist} */}
                     {/* link={`https://www.blitmap.com/details?id=${originals.image}`} */}
                   </p>
                 </div>

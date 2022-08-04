@@ -2,403 +2,503 @@
   "originals":[
     {
       "image": "0",
-      "name": "Genesis"
+      "name": "Genesis",
+      "artist":"dom"
     },
     {
       "image": "1",
-      "name": "Rose"
+      "name": "Rose",
+      "artist":"dom"
     },
     {
       "image": "10",
-      "name": "Looney"
+      "name": "Looney",
+      "artist":"Veenus"
     },
     {
       "image": "11",
-      "name": "Atlantis"
+      "name": "Atlantis",
+      "artist":"Veenus"
     },
     {
       "image": "12",
-      "name": "Otoro"
+      "name": "Otoro",
+      "artist":"Veenus"
     },
     {
       "image": "13",
-      "name": "Jupiter"
+      "name": "Jupiter",
+      "artist":"BigPapap"
     },
     {
       "image": "14",
-      "name": "Overloaded"
+      "name": "Overloaded",
+      "artist":"BigPapap"
     },
     {
       "image": "15",
-      "name": "Mask"
+      "name": "Mask",
+      "artist":"dom"
     },
     {
       "image": "16",
-      "name": "Vanilla"
+      "name": "Vanilla",
+      "artist":"BigPapap"
     },
     {
       "image": "17",
-      "name": "Tamago"
+      "name": "Tamago",
+      "artist":"Veenus"
     },
     {
       "image": "18",
-      "name": "The Cat"
+      "name": "The Cat",
+      "artist":"BigPapap"
     },
     {
       "image": "19",
-      "name": "Ebi"
+      "name": "Ebi",
+      "artist":"Veenus"
     },
     {
       "image": "2",
-      "name": "Boombox"
+      "name": "Boombox",
+      "artist":"dom"
     },
     {
       "image": "20",
-      "name": "Eruption"
+      "name": "Eruption",
+      "artist":"Veenus"
     },
     {
       "image": "21",
-      "name": "Night Moon"
+      "name": "Night Moon",
+      "artist":"BigPapap"
     },
     {
       "image": "22",
-      "name": "Processing"
+      "name": "Processing",
+      "artist":"BigPapap"
     },
     {
       "image": "23",
-      "name": "The Sun"
+      "name": "The Sun",
+      "artist":"Veenus"
     },
     {
       "image": "24",
-      "name": "Hillside"
+      "name": "Hillside",
+      "artist":"Veenus"
     },
     {
       "image": "25",
-      "name": "Ever Lovin"
+      "name": "Ever Lovin",
+      "artist":"BigPapap"
     },
     {
       "image": "26",
-      "name": "Cheese"
+      "name": "Cheese",
+      "artist":"Veenus"
     },
     {
       "image": "27",
-      "name": "Scramble"
+      "name": "Scramble",
+      "artist":"BigPapap"
     },
     {
       "image": "28",
-      "name": "Moderator"
+      "name": "Moderator",
+      "artist":"BigPapap"
     },
     {
       "image": "29",
-      "name": "Swordy"
+      "name": "Swordy",
+      "artist":"numo"
     },
     {
       "image": "3",
-      "name": "Node"
+      "name": "Node",
+      "artist":"dom"
     },
     {
       "image": "30",
-      "name": "Healtreey"
+      "name": "Healtreey",
+      "artist":"numo"
     },
     {
       "image": "31",
-      "name": "Mageglovey"
+      "name": "Mageglovey",
+      "artist":"numo"
     },
     {
       "image": "32",
-      "name": "Feathery"
+      "name": "Feathery",
+      "artist":"numo"
     },
     {
       "image": "33",
-      "name": "Teddy"
+      "name": "Teddy",
+      "artist":"numo"
     },
     {
       "image": "34",
-      "name": "Cloudy"
+      "name": "Cloudy",
+      "artist":"numo"
     },
     {
       "image": "35",
-      "name": "Candy"
+      "name": "Candy",
+      "artist":"numo"
     },
     {
       "image": "36",
-      "name": "Chessbirdy"
+      "name": "Chessbirdy",
+      "artist":"numo"
     },
     {
       "image": "37",
-      "name": "Angrybirby"
+      "name": "Angrybirby",
+      "artist":"numo"
     },
     {
       "image": "38",
-      "name": "Burgery"
+      "name": "Burgery",
+      "artist":"numo"
     },
     {
       "image": "39",
-      "name": "Periwinkle"
+      "name": "Periwinkle",
+      "artist":"boyprison"
     },
     {
       "image": "4",
-      "name": "Psychic"
+      "name": "Psychic",
+      "artist":"Veenus"
     },
     {
       "image": "40",
-      "name": "Sprout"
+      "name": "Sprout",
+      "artist":"boyprison"
     },
     {
       "image": "41",
-      "name": "Amai"
+      "name": "Amai",
+      "artist":"boyprison"
     },
     {
       "image": "42",
-      "name": "Blit"
+      "name": "Blit",
+      "artist":"dom"
     },
     {
       "image": "43",
-      "name": "Rune"
+      "name": "Rune",
+      "artist":"dom"
     },
     {
       "image": "44",
-      "name": "Vibe"
+      "name": "Vibe",
+      "artist":"zod"
     },
     {
       "image": "45",
-      "name": "Ride"
+      "name": "Ride",
+      "artist":"zod"
     },
     {
       "image": "46",
-      "name": "Andrei"
+      "name": "Andrei",
+      "artist":"other"
     },
     {
       "image": "47",
-      "name": "Soft Boy"
+      "name": "Soft Boy",
+      "artist":"HighleyVarlet"
     },
     {
       "image": "48",
-      "name": "Pizza Time"
+      "name": "Pizza Time",
+      "artist":"HighleyVarlet"
     },
     {
       "image": "49",
-      "name": "Hot Damn"
+      "name": "Hot Damn",
+      "artist":"HighleyVarlet"
     },
     {
       "image": "5",
-      "name": "Ikura"
+      "name": "Ikura",
+      "artist":"Veenus"
     },
     {
       "image": "50",
-      "name": "Everything"
+      "name": "Everything",
+      "artist":"HighleyVarlet"
     },
     {
       "image": "51",
-      "name": "Illuminate"
+      "name": "Illuminate",
+      "artist": "BRAINDRAIND"
     },
     {
       "image": "52",
-      "name": "Six Months"
+      "name": "Six Months",
+      "artist":"worm"
     },
     {
       "image": "53",
-      "name": "Mana"
+      "name": "Mana",
+      "artist":"ceresstation"
     },
     {
       "image": "54",
-      "name": "Nude"
+      "name": "Nude",
+      "artist":"other"
     },
     {
       "image": "55",
-      "name": "Kabuto"
+      "name": "Kabuto",
+      "artist":"zod"
     },
     {
       "image": "56",
-      "name": "Mori"
+      "name": "Mori",
+      "artist":"other"
     },
     {
       "image": "57",
-      "name": "Hand"
+      "name": "Hand",
+      "artist":"other"
     },
     {
       "image": "58",
-      "name": "Gato"
+      "name": "Gato",
+      "artist":"jstn"
     },
     {
       "image": "59",
-      "name": "Ear"
+      "name": "Ear",
+      "artist":"other"
     },
     {
       "image": "6",
-      "name": "Edition"
+      "name": "Edition",
+      "artist":"BigPapap"
     },
     {
       "image": "60",
-      "name": "Eye"
+      "name": "Eye",
+      "artist":"other"
     },
     {
       "image": "61",
-      "name": "Jess"
+      "name": "Jess",
+      "artist":"other"
     },
     {
       "image": "62",
-      "name": "Lay Off Me"
+      "name": "Lay Off Me",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "63",
-      "name": "Say What"
+      "name": "Say What",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "64",
-      "name": "Cool Cat"
+      "name": "Cool Cat",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "65",
-      "name": "Eggplant"
+      "name": "Eggplant",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "66",
-      "name": "Sasquatch"
+      "name": "Sasquatch",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "67",
-      "name": "Mushroom"
+      "name": "Mushroom",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "68",
-      "name": "Dunce"
+      "name": "Dunce",
+      "artist":"other"
     },
     {
       "image": "69",
-      "name": "Soft"
+      "name": "Soft",
+      "artist":"other"
     },
     {
       "image": "7",
-      "name": "Selected"
+      "name": "Selected",
+      "artist":"BigPapap"
     },
     {
       "image": "70",
-      "name": "End"
+      "name": "End",
+      "artist":"other"
     },
     {
       "image": "71",
-      "name": "Embryo"
+      "name": "Embryo",
+      "artist":"other"
     },
     {
       "image": "72",
-      "name": "Watching"
+      "name": "Watching",
+      "artist":"other"
     },
     {
       "image": "73",
-      "name": "News"
+      "name": "News",
+      "artist":"other"
     },
     {
       "image": "74",
-      "name": "Caffeinate"
+      "name": "Caffeinate",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "75",
-      "name": "Communion"
+      "name": "Communion",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "76",
-      "name": "Din-Din"
+      "name": "Din-Din",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "77",
-      "name": "Warm Vibe"
+      "name": "Warm Vibe",
+      "artist":"BRAINDRAIND"
     },
     {
       "image": "78",
-      "name": "The Guy"
+      "name": "The Guy",
+      "artist":"spacedoctor"
     },
     {
       "image": "79",
-      "name": "Reset"
+      "name": "Reset",
+      "artist":"other"
     },
     {
       "image": "8",
-      "name": "Kraken"
+      "name": "Kraken",
+      "artist":"Veenus"
     },
     {
       "image": "80",
-      "name": "Key"
+      "name": "Key",
+      "artist":"other"
     },
     {
       "image": "81",
-      "name": "Glimpse"
+      "name": "Glimpse",
+      "artist":"dom"
     },
     {
       "image": "82",
-      "name": "Boysdocry"
+      "name": "Boysdocry",
+      "artist":"hipcityreg"
     },
     {
       "image": "83",
-      "name": "Wave"
+      "name": "Wave",
+      "artist":"zod"
     },
     {
       "image": "84",
-      "name": "Logo"
+      "name": "Logo",
+      "artist":"dom"
     },
     {
       "image": "85",
-      "name": "Melt Man"
+      "name": "Melt Man",
+      "artist":"spacedoctor"
     },
     {
       "image": "86",
-      "name": "Cherrybomb"
+      "name": "Cherrybomb",
+      "artist":"yi"
     },
     {
       "image": "87",
-      "name": "Melony"
+      "name": "Melony",
+      "artist":"numo"
     },
     {
       "image": "88",
-      "name": "Fishy"
+      "name": "Fishy",
+      "artist":"numo"
     },
     {
       "image": "89",
-      "name": "Watcher"
+      "name": "Watcher",
+      "artist":"dom"
     },
     {
       "image": "9",
-      "name": "Totally"
+      "name": "Totally",
+      "artist":"BigPapap"
     },
     {
       "image": "90",
-      "name": "Glitcho"
+      "name": "Glitcho",
+      "artist":"dom"
     },
     {
       "image": "91",
-      "name": "City"
+      "name": "City",
+      "artist":"dom"
     },
     {
       "image": "92",
-      "name": "Exe"
+      "name": "Exe",
+      "artist":"dom"
     },
     {
       "image": "93",
-      "name": "Sock Cloud"
+      "name": "Sock Cloud",
+      "artist":"worm"
     },
     {
       "image": "94",
-      "name": "Gate"
+      "name": "Gate",
+      "artist":"dom"
     },
     {
       "image": "95",
-      "name": "Optimist"
+      "name": "Optimist",
+      "artist":"askywlkr"
     },
     {
       "image": "96",
-      "name": "Pale Tower"
+      "name": "Pale Tower",
+      "artist":"themoonladder"
     },
     {
       "image": "97",
-      "name": "Drink Me"
+      "name": "Drink Me",
+      "artist":"askywlkr"
     },
     {
       "image": "98",
-      "name": "Chaos Flow"
+      "name": "Chaos Flow",
+      "artist":"themoonladder"
     },
     {
       "image": "99",
-      "name": "Lost Realm"
+      "name": "Lost Realm",
+      "artist":"themoonladder"
     }
   ],
   "siblings":[

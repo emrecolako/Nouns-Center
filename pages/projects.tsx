@@ -30,13 +30,6 @@ const Projects = () => {
     { id: "Fractionalized Token", title: "Fractionalized Token" },
     { id: "Merch", title: "Merch" },
 
-
-    // { id: "proposal", title: "Proposal" },
-    // { id: "prop-house", title: "Prop House" },
-    // { id: "small-grants", title: "Small Grants" },
-    // { id: "merch", title: "Merch" },
-    // { id: "stats", title: "Stats" },
-    // { id: "misc", title: "Misc" },
   ];
 
   const getProjectsText = (curr: string) => {
