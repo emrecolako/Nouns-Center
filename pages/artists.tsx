@@ -39,7 +39,7 @@ const Talent = (props) => {
         <Header title="Artists | Blit Center" />
         <Title title="Artists" />
 
-        <Subheader body="Seventeen artists contributed artwork for the 100 Original Blitmaps. " />
+        <Subheader body="Seventeen artists contributed artwork for the hundred original Blitmaps. " />
       </PageHeader>
 
       <PageContent>
