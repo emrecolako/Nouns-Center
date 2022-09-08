@@ -68,6 +68,11 @@ module.exports = {
         permanent: true,
       },
       {
+        source: "/salt",
+        destination: "/salt",
+        permanent: true,
+      },
+      {
         source: "/note",
         destination: "/notes",
         permanent: true,
