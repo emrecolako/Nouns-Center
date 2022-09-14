@@ -162,14 +162,20 @@
     "buttonText":"Visit blitwear"
   },
   {
-
     "date":"03/01/2022",
     "title":" Meet the Logos",
     "body":"Blitmap teased new art for the upcoming collection: Logos",
     "img":"logostease.png",
     "link":"https://twitter.com/blitmap/status/1512470563658285062",
     "buttonText":"View tweet"
-    
+  },
+  {
+    "date":"09/14/2022",
+    "title":"Roses @>-",
+    "body":"dom released a new art project: procedurally generated in 3d + served fully on-chain",
+    "img":"domroses.png",
+    "link":"https://twitter.com/dhof/status/1569750046106873857",
+    "buttonText":"View tweet"
   }
   
 
